@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Button</string>
+    <string name="letter">Dear Mr/Mrs, \n\n\nI\'m the developer of this app and I want to give you a button, which is connected to our servers. What does the button do? The button blocks a random user and gives you a little reward. Use it wisely.\n\n\nSincerely,\n\nThe developer.</string>
+    <string name="blocked">You have been blocked</string>
+    <string name="searching_user">Searching for a random user …</string>
+    <string name="blocking_user">User found, blocking …</string>
+    <string name="user_blocked">User blocked, fetching your reward …</string>
+    <string name="title">Button, Button</string>
+</resources>
